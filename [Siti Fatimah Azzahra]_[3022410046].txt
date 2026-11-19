@@ -1,0 +1,51 @@
+DESKRIPSI KASUS - ANALISIS TREN BELANJA PELANGGAN RITEL
+Dibuat oleh : [Nama Pembuat] ([NIM])
+Untuk       : [Nama Partner] ([NIM Partner])
+Mata kuliah : Data Mining - Tugas 1 Data Preprocessing
+
+SUMBER DATA
+Dataset asli: "Customer Shopping Trends Dataset" (Kaggle, oleh Sourav Banerjee)
+https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset
+Dari dataset asli diambil 115 baris acak dan 13 variabel (ditambah 1 kolom baru,
+Previous Purchases Period, sehingga menjadi 14 kolom), lalu dimanipulasi dengan sengaja (ditambahkan missing value, duplikat, outlier, dan masalah kualitas
+data lainnya) untuk keperluan latihan preprocessing. Data hasil manipulasi ini
+BUKAN data asli.
+
+1. LATAR BELAKANG
+Sebuah perusahaan ritel mengumpulkan data pelanggan dari berbagai kanal (toko,
+aplikasi, dan input manual). Karena sumbernya beragam, data belum rapi sehingga
+belum bisa dipakai langsung oleh tim analitik.
+
+2. TUJUAN ANALISIS
+Menyiapkan data yang bersih dan siap dimodelkan untuk:
+  (a) segmentasi pelanggan berdasarkan pola belanja, dan
+  (b) analisis faktor yang memengaruhi Review Rating.
+
+3. DESKRIPSI DATASET
+File       : Shopping_Trends_dataset_kotor.csv
+Jumlah data: 120 baris
+Variabel   : 14 kolom
+
+No  Variabel                    Jenis                 Keterangan
+1   Customer ID                 Kategorik (ID)        Kode unik pelanggan
+2   Age                         Numerik               Usia pelanggan (tahun)
+3   Gender                      Kategorik             Jenis kelamin pelanggan
+4   Location                    Kategorik             Lokasi (negara bagian) pelanggan
+5   Category                    Kategorik             Kategori produk yang dibeli
+6   Season                      Kategorik             Musim saat pembelian
+7   Payment Method              Kategorik             Metode pembayaran yang dipakai
+8   Shipping Type               Kategorik             Jenis pengiriman
+9   Subscription Status         Kategorik             Status berlangganan (Yes/No)
+10  Frequency of Purchases      Kategorik (ordinal)   Seberapa sering pelanggan berbelanja
+11  Purchase Amount (USD)       Numerik               Nilai pembelian (USD)
+12  Review Rating               Numerik               Rating ulasan produk (skala 1-5)
+13  Previous Purchases          Numerik               Jumlah pembelian sebelumnya, sesuai periode pencatatan
+14  Previous Purchases Period   Kategorik             Periode pencatatan Previous Purchases ('12 Months' / 'Monthly')
+
+4. TUGAS UNTUK PARTNER
+Lakukan data preprocessing pada dataset di atas, mencakup:
+  - eksplorasi dan pemeriksaan kualitas data (statistik deskriptif),
+  - pembersihan data (cleansing), termasuk penanganan missing value,
+  - transformasi data (normalisasi, encoding, diskretisasi, penyamaan satuan/agregasi),
+  - reduksi dimensi (seleksi dan/atau ekstraksi fitur).
+Jelaskan setiap tahap dengan pola input - proses - output.

@@ -1,0 +1,121 @@
+Customer ID,Age,Gender,Location,Category,Season,Payment Method,Shipping Type,Subscription Status,Frequency of Purchases,Purchase Amount (USD),Review Rating,Previous Purchases,Previous Purchases Period
+3276,,Female,Alabama,Clothing,Summer,Debit Card,2-Day Shipping,No,Weekly,,2.6,1,Monthly
+1461,,Male,Pennsylvania,Footwear,Fall,Vnemo,Standard,No,Bi-Weekly,85,4.6,33,12 Months
+311,56,Male,Montana,Clothing,Winter,Cash,Standard,Yes,Fortnightly,85,4.6,50,12 Months
+1210,41,Male,Pennsylania,Clothing,Winter,Bank Transfer,Next Day Air,No,Monthly,62,3.8,16,12 Months
+2953,230,Female,Alabama, Accessories ,Spring,Debit Card,Next Day Air,No,Monthly,24,4.9,1,Monthly
+3268,37,F,Idaho,Clothing,Winter,Credit Card,Store Pickup,No,Quarterly,,3.0,4,Monthly
+754,47,M,Massachusetts,Footwear,Fall,Venmo,Sore Pickup,Yes,Quarterly,54,3.4,27,12 Months
+1839,37,Male,Vermont,Accessories,Fall,Credit Card,Next Day Air,No,Quarterly,24,4.1,11,12 Months
+1993,33,Male,New Jersey, Clothing ,Winter,Venmo,2-Day Shipping,No,Monthly,98,4.9,28,12 Months
+3439,26,Female,Kentucky,Clothing,Fall,Credt Card,Store Pickup,No,Monthly,71,3.0,33,12 Months
+1801,,Male,Mississippi,Outerwear,Winter,,Express,No,Weekly,58,2.7,30,12 Months
+85,,Male,Arizona,Outerwear,Spring,Bank Transfer,Standard,Yes,Every 3 Months,32,4.4,42,12 Months
+1935,34,Male,Michigan,Outerwear,Winter,Bank Transfer,Free Shipping,No,Annually,$43,2.7,23,12 Months
+497,30,Male,California,Clothing,Fall,Venmo,Express,Yes,Fortnightly,63,3.3,31,12 Months
+1580,35,Male,Oklahoma,Outerwear,Summer,Bank Trnsfer,Free Shipping,No,Monthly,80,3.1,1,Monthly
+579,69,Male,Maine,Footwear,fall,Credit Card,Next Day Air,Yes,Fortnightly,,4.6,22,12 Months
+579,69,Male,Maine,Footwear,fall,Credit Card,Next Day Air,Yes,Fortnightly,,4.6,22,12 Months
+2365,62,Male,,Accessories,Winter,PayPal,Free Shipping,No,Quarterly,60,0,1,Monthly
+1014,59,Male,,Accessories,,Venmo,2-Day Shipping,Yes,Bi-Weekly,69,3.8,31,12 Months
+2796,33,Female,Nebraska,Accessories,Winter,PayPal,Store Pickup,No,Annually,35,3.4,49,12 Months
+1152,41,Male,Ohio,Cothing,Spring,Credit Card,Express,No,Weekly,,4.2,24,12 Months
+3857,39,Female,Virginia,Footwear,,Debit Card,Free Shipping,No,Quarterly,78,2.5,8,12 Months
+526,51,male,Iowa,Outerwear,Spring,Debit Card,Next Day Air,Yes,Monthly,4500,3.2,41,12 Months
+3436,68,Female,Montana,Clothing,Summer,Debit Card,2-Day Shipping,No,Bi-Weekly,91,2.7,4,Monthly
+2978,38,Female,Washington,Clothing,Winter,venmo,Standard,No,Annually,47,3.4,2,Monthly
+3049,69,Female,Colorado,Accessories,Summer,Venmo,Standard,No,Fortnightly,3800,3.9,47,12 Months
+3693,59,Wanita,Alabama,Outerwar,Spring,Cash,Free Shipping,No,Fortnightly,,4.8,29,12 Months
+770,52,Male,Delaware,Clothing,Spring,PayPal,Store Pickup,Yes,Monthly,100,4.3,8,12 Months
+929,67 years,Male,Arkansas,Clothing,Winter,Cash ,Store Pickup,Yes,Every 3 Months,37,3.4,-3,12 Months
+1603,90,Male,,Accessories,Winter,Venmo,Free Shipping,No,Fortnightly,48,2.8,13,12 Months
+2424,49 years,Male,West Virginia,Accessories,Summer,Credit Card,Free Shipping,No,Every 3 Months,81,2.8,1,Monthly
+695,41,Male,Kentucky,Clothing,Fall,VENMO,2-Day Shipping,Yes,Every 3 Months,2100,3.5,38,12 Months
+3250,26,Female,Virginia,Accessories,Summer,Credit Card ,Express,No,Quarterly,,3.4,32,12 Months
+1828,20,Male,Vermont,Clothing,Spring,Bank Transfer,2-Day Shipping,No,Weekly,36,4.9,3,Monthly
+1594,61,Male, Maryland,Clothing,Spring,Bank Transfer,2-Day Shipping,No,Monthly,95,4.9,25,12 Months
+205,24,Male,Arizona,Footwear,Fall,Cash,Store Pickup,Yes,Bi-Weekly,,4.0,35,12 Months
+2526,39,Male,Kentucky,Clothing,Winter,PayPal,Standard,No,Weekly,72,4.2,480,12 Months
+2855,36,Female,Delaware,Footwear,Fall,Venmo,Store Pickup,No,Monthly,28,2.7,25,12 Months
+91,25,Male,South Carolina,Accessories,Summer,,Express,Yes,Monthly,48,2.9,2,Monthly
+3835,43,Female,Tennessee,Clothing,Winter,Cash,2-Day Shipping,No,Quarterly,59,4.1,17,12 Months
+3492,22 th,Female,Maine,Clothing,,Cash,Express,No,Monthly,28,4.3,15,12 Months
+1300,29,Male,Louisiana,ACCESSORIES,Fall,Venmo,2-Day Shipping,No,Bi-Weekly,23,,42,12 Months
+3735,38,Female,California,Clothing,Spring,Debit Card,Next Day Air,No,Every 3 Months,88,3.4,33,12 Months
+1721,25,Male,Massachusetts,Clothing,Winter,Debit Card,Express,No,Bi-Weekly,84,2.8,40,12 Months
+1548,46,Male,South Carolina,ACCESSORIES,Summer,Cash,Standard,No,Quarterly,46,3.5,40,12 Months
+2940,32,Female,Kentucky,Clothing,WINTER,Venmo,Exress,No,Weekly,46,4.3,3,Monthly
+304,20,Male,Oregon,Footwear,Summer,Venmo,Next Day Air,Yes,Weekly,,3.3,49,12 Months
+1679,41,Male,Ohio,Clothing,Summer,Venmo,2-Day Shipping,No,Fortnightly,71,4.8,30,12 Months
+3554,62,Female,minnesota,Footwear,Spring,Bank Transfer,Free Shipping,No,Weekly,9900,4.9,32,12 Months
+1271,67,Male,Wst Virginia,Clothing,Fall,Cash,Standard,No,Annually,98,3.3,20,12 Months
+736,61,Male,Montana,Acessories,Fall,Cash,2-Day Shipping,Yes,Bi-Weekly,$48,3.6,48,12 Months
+1228,27 th,Male,Illinois,Clothing,Spring,Bnk Transfer,Store Pickup,No,Bi-Weekly,37,4.9,2,Monthly
+1688,67,Male,Georgia,Clothing,Winter,PaPyal,Free Shipping,No,Annually,70,3.7,4,12 Months
+2074,38,Male,Texas,Accessories,Winter,PayPal,Next Day Air,No,Every 3 Months,25,3.5,2,12 Months
+1105,35,Male,Delaware,Accessories,Fall,,Express,No,Quarterly,2800,3.1,8,12 Months
+496,99,Male,Michigan,Accessories,Fall,Debit Card,Free Shipping,Yes,Fortnightly,36,3.3,6,12 Months
+2090,37,Male,Maryland,Outerwear,-,Credit Card,Free Shipping,No,Every 3 Months,57,3.6,350,Monthly
+3254,36,Female,Nebraska, Accessories ,Fall,Venmo,2-Day Shipping,No,Fortnightly,60,3.2,1,Monthly
+910,,Male,Louisiana,Accessories,Fall,PayPal,Express,Yes,Weekly,56,2.7,3,Monthly
+3261,39,Wanita,Wisconsin,Accessories,Summer,Credit Card,2-Day Shipping,No,Annually,36,4.5,1,Monthly
+1774,21,male,West Virginia,Outerwear,Summer,PayPal,Free Shipping,No,Annually,USD 92,2.7,17,12 Months
+3576,61,Female,,Outerwear,Fall,Venmo,Express,No,Bi-Weekly,95,3.7,49,12 Months
+1390,59,Male,illinois,Accessories,fall,Debit Card,Store Pickup,No,Fortnightly,72,"2,6",1,Monthly
+1347,44,Male,Mississippi,Clothing,Winter,Venmo,Free Shipping,No,Bi-Weekly,91,,15,12 Months
+1648,34,Male,Hawaii,footwear,Summer,Debit Card,Store Pickup,No,Quarterly,USD 78,4.9,8,12 Months
+3720,20,Female,Pennsylvania,Clothing,Summer,,Free Shipping,No,Every 3 Months,91,4.1,8,12 Months
+2526,39,Male,Kentucky,Clothing,Winter,PayPal,Standard,No,Weekly,72,4.2,480,12 Months
+3141,34,Female,Alaska,Accessories,Summer,Bank Transfer,Free Shipping,No,Weekly,44,4.6,3,Monthly
+2638,-4,Male, Alabama,Clotihng,Spring,PayPal,Store Pickup,No,Annually,23,"3,7",2,12 Months
+3431,67,Female,Montana,Clothing,-,Bank Transfer,Next Day Air,No,Every 3 Months,7300,4.2,17,12 Months
+462,18,Male,Ohio,Footwear,WINTER,Venmo,Express,Yes,Weekly,93,3.9,20,12 Months
+3870,,Female,,Outerwear,Spring,Bank Transfer,Free Shipping,No,Annually,,-1,28,12 Months
+1075,48,Male,Tenenssee,Accessories,Fall,Bank Transfer,Standard,No,Fortnightly,71,2.6,45,12 Months
+1015,28,M,Ohio,Footwear,Summer,Debit Card,Standard,Yes,Fortnightly,9700,3.0,36,12 Months
+2464,60,Male,Mississippi,Clothing,Summer,Cash,Standard,No,Bi-Weekly,21,3.3,25,12 Months
+1035,68,MALE,Maryland,Clothing,Fall,Bank Transfer,Next Day Air,Yes,Weekly,29,,44,12 Months
+3863,,Female,Idaho,Clothing,Winter,Venmo,Next Day Air,No,Monthly,4900,,9,12 Months
+22,31,Male,,Clothing,,debit card,Store Pickup,Yes,Quarterly,-45,4.1,22,12 Months
+295,70,Male,New Jersey,Clothing,Spring,,Store Pickup,Yes,Every 3 Months,20,4.6,19,12 Months
+883,50,Male,Virginia, Footwear ,Fall,Cash,Next Day Air,Yes,Every 3 Months,3500,3.8,37,12 Months
+1051,,Male,Florida,Footwear,Winter,Venmo,Next Day Air,Yes,Monthly,64,3.8,19,12 Months
+1720,45,male,Maryland,Clothing,Winter,Venmo,Free Shipping,No,Quarterly,,3.2,8,12 Months
+1934,48,Male,Montana,Footwear,Summer,Venmo,Next Day Air,No,Annually,67,4.1,28,12 Months
+3431,67,Female,Montana,Clothing,-,Bank Transfer,Next Day Air,No,Every 3 Months,7300,4.2,17,12 Months
+1403,62,Male,North Dakota,Accessories,Summer,PayPal,Express,No,Monthly,,3.1,4,Monthly
+1232,66,Male,Pennsylvania,Clothing,Spring,Credit Card,2-Day Shipipng,No,Fortnightly,$79,4.0,4,Monthly
+3331,38,Female,Missouri,Footwear,Spring,Bank Transfer,2-Day Shipping,No,Quarterly,96,3.2,3,Monthly
+237,38,Male,North Dakota,Outerwear,Winter,PayPal,Next Day Air,Yes,Fortnightly,68,3.4,39,12 Months
+3821,34,Female,New Hampshire,Accessories,Winter,,Standard,No,Quarterly,,,34,12 Months
+81,19,Pria,New York,Footwear,Summer,CREDIT CARD,Store Pickup,Yes,Every 3 Months,7200,3.3,24,12 Months
+172,29,Male,Virginia ,Clothing,Summer,Credit Card,Store Pickup,Yes,Weekly,35,9,4,12 Months
+3158,21,Female,,Accessories,Fall,,Store Pickup,No,Fortnightly,34,3.1,5,12 Months
+573,56,Male,SOUTH CAROLINA,Accessories,Summer,Bank Transfer,Next Day Air,Yes,Annually,97,4.6,26,12 Months
+244,25,Male,Kentucky,Accessories,Winter,Debit Card,2-Day Shipping,Yes,Monthly,100,2.8,1,Monthly
+127,43,Male,Mississippi,clothing,Spring,Cash,Store Pickup,Yes,Every 3 Months,36,3.9,48,12 Months
+2498,35,Male,,Accessories,Summer,Bank Transfer,Standard,No,Annually,40,4.2,28,12 Months
+2874,44,Female,Montana,Clothing,Spring,Bank Transfer,Free Shipping,No,Monthly,40,2.6,8,12 Months
+2856,150,Female,Mississippi,Footwear,Winter,PayPal,2-Day Shipping,No,Quarterly,95,3.8,33,12 Months
+1927,66,Male,New Mexico,Accessories,Spring,PayPal,Express,No,Annually,93,3.0,6,12 Months
+3491,62,Female,Oregon,Footwear,Spring,Credit Card,Store Pickup,No,Quarterly,,3.6,43,12 Months
+1345,56,Male,New York,Clothing,Fall,Cash,Next Day Air,No,Annually,37,4.9,14,12 Months
+3853,65,Female,Mississippi,Accessories,Fall,PayPal ,2-Day Shipping,No,Weekly,2900,,19,12 Months
+2945,0,Female,New York,Footwear,Summer,Venmo,Free Shipping,No,Every 3 Months,95,3.9,4,12 Months
+2611,66,M,West Virginia ,Clothing,,Cash,Express,No,Quarterly,93,3.1,-6,Monthly
+898,29,Male,Illinois,Clothing,Spring,Venmo,Express,Yes,Weekly,,3.4,46,12 Months
+3892,36,Female,Colorado,Clothing,Winter,Bank Transfer,Free Shipping,No,Quarterly,30,4.7,6,12 Months
+2819,46,FEMALE,California,Clotihng,Fall,Debit Card,Next Day Air,No,Annually,73,4.7,12,12 Months
+1164,26,Male, Tennessee,Clothing,Summer,Debit Card,2-Day Shipping,No,Monthly,56,3.0,24,12 Months
+3793,43,Female,Massachusetts,Accessories,Summer,PayPal,Express,No,Fortnightly,58,2.6,2,12 Months
+1164,26,Male, Tennessee,Clothing,Summer,Debit Card,2-Day Shipping,No,Monthly,56,3.0,24,12 Months
+2579,54,Male,Vermnot,Accessories,Fall,Cash,FreeS hipping,No,Quarterly,48,3.9,3,12 Months
+3430,,Female,Alaska,Clothing,Winter,Debit Card,Express,No,Weekly,96,4.6,34,12 Months
+1766,68,Male,New Mexico,Clothing,Spring,Venmo,2-Day Shipping,No,Quarterly,88,"4,1",41,12 Months
+299,69,Male,Maryland,Clothing,Winter,Venmo,Standard,Yes,Every 3 Months,53,4.0,1,Monthly
+3358,41,Female,Arkansas,Clothing,Winter,Credit Card,Free Shipping,No,Monthly,67,,3,Monthly
+594,67,Male,Alaska,Outerwear,Winter,PayPal,Store Pickup,Yes,Every 3 Months,35,4.4,9,12 Months
+2023,59,Pria,Alabama,Accessories,Winter,,Store Pickup,No,Bi-Weekly,38,4.0,1,Monthly
+2302,37,Male,Maine,Clothing,Winter,Debit Card,Next Day Air,No,Annually,20,2.9,21,12 Months
+898,29,Male,Illinois,Clothing,Spring,Venmo,Express,Yes,Weekly,,3.4,46,12 Months
+2532,43,Male,Texas,Footwear,Summer,Cash,Free Shipping,No,Every 3 Months,28,4.6,7,12 Months
